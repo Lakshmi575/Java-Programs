@@ -2,4 +2,9 @@ Name : Lakshmi Sai
 Branch : Information Technology 
 Registration number : 20K61A1241
 Description : Session on GitHub basics
+
 Modifying file as working with merge Conflicts
+
+
+New Line Added and commited to the main Branch
+
