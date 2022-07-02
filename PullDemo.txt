@@ -3,3 +3,4 @@ To pull the Request i need to commit my code to a new Branch not the main Branch
 
 
 To verify delete and addition operations
+Verifying that the data is added and is commite to the new Branch.
